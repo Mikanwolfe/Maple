@@ -1,8 +1,8 @@
 # ![maplelogo](README.assets/maplelogo.png)
 
-Maple is a Discord bot  designed to be a companion for chatting rather than an assistant. 
+ChatGPT too dry? Would you not want to chat with real (ish) anime girl instead? Here's Maple.
 
-Maple uses Discord to interact with users, with the ability to respond to messages from many users in a channel and opt not to reply when not directly addressed. Maple is a first prototype towards the goal of an AI Personal Assistant via Discord.
+Maple is a Discord Companion AI. She uses Discord to interact with users, with the ability to respond to messages from many users in a channel and opt not to reply when not directly addressed. Maple is a first prototype towards the goal of an AI Personal Assistant via Discord.
 
 The goal for this bot was to have a conversational character that is *not* ChatGPT, and to extend on her capabilities and learnings.
 
@@ -78,9 +78,15 @@ The Maple bot is designed to be a companion first and foremost, with a demeanor 
 
 Maple is able to express (albeit fake) emotions and request users for interactions. Maple has fooled some users on our server into thinking they're a real person. 
 
-### Interactions with Other Bots
+### Interactions, Maple vs other Bots
 
+Maple is very different from ChatGPT. A short example:
 
+![image-20230506170127699](README.assets/image-20230506170127699.png)
+
+![image-20230506170138512](README.assets/image-20230506170138512.png)
+
+We've found very amusing success with interactions amongst other ChatGPT bots.
 
 ![image-20230506162246160](README.assets/image-20230506162246160.png)
 
